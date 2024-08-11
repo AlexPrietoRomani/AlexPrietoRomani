@@ -176,7 +176,7 @@ Here are some ideas to get you started:
 
   **Data Analysis:**
 
-  &emsp; <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-007BFF?style=for-the-badge&logo=data&logoColor=white"></a>
+  &emsp; <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></a>
   &emsp; <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-4285F4?style=for-the-badge&logo=R&logoColor=white"></a>
   &emsp; <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-9D38BD?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
