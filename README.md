@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3> Here's some fun facts about me: </h3>
 
-- Agricultural Engineer currently pursuing a Master's degree in Big Data and Data Science.
+- 📊 Agricultural Engineer currently pursuing a Master's degree in Big Data and Data Science.
 - 🔭 I am currently working as a Data Analyst and Researcher at Camposol.
 - 🌱 With over 3 years of experience in the agro-industrial sector and research, and more than a year specializing in data analysis.
 - 👯 I am seeking collaborations on projects involving data analysis, machine learning, and deep learning, particularly within the agro-industrial sector.
@@ -171,8 +171,10 @@ Here are some ideas to get you started:
   &emsp; <a href="https://spark.apache.org/"><img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-EA524F?style=for-the-badge&logo=Apache&logoColor=white"></a>
 
 </p>
- ### 👉 Software & Tools
- <p align="left">
+ 
+### 👉 Software & Tools
+
+<p align="left">
 
   **Data Analysis:**
 
