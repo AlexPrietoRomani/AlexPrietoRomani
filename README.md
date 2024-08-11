@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   <a href="https://www.scipy.org/"> <img alt="SciPy" src="https://img.shields.io/badge/SciPy-F7CAC9?style=for-the-badge&logo=SciPy&logoColor=black"/>
   </a>
   &emsp;
-  <a href="https://seaborn.pydata.org/"> <img alt="Seaborn" src="https://img.badge/seaborn-FFC4AA?style=for-the-badge&logo=seaborn&logoColor=black"/>
+  <a href="https://seaborn.pydata.org/"> <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-blue?style=for-the-badge&logo=seaborn"/>
   </a>
   <br/>
 
