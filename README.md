@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Alex!;I'm+a+Data+Science...;And+I'm+a+proud+Peruvian+🇵🇰)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> Here's some fun facts about me: </h3>
 
 - Agricultural Engineer currently pursuing a Master's degree in Big Data and Data Science.
@@ -72,7 +70,7 @@ Here are some ideas to get you started:
 <p align="left">
 
   **Python:**
-
+  
   &emsp;
   <a href="https://pandas.pydata.org/">
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-007BFF?style=for-the-badge&logo=data&logoColor=white"/>
@@ -92,6 +90,7 @@ Here are some ideas to get you started:
   <br/>
 
   **Frameworks:**
+  
   &emsp;
   <a href="https://scikit-learn.org/"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>
@@ -107,6 +106,7 @@ Here are some ideas to get you started:
   <br/>
 
   **Visualization:**
+  
   &emsp;
   <a href="https://plotly.com/"> <img alt="Plotly" src="https://img.shields.io/badge/plotly-2874A3?style=for-the-badge&logo=Plotly&logoColor=white"/>
   </a>
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
   <br/>
 
   **R:**
-
+  
   &emsp;
   <a href="https://tidyverse.org/"> <img alt="Tidyverse" src="https://img.shields.io/badge/tidyverse-9D38BD?style=for-the-badge&logo=R&logoColor=white"/>
   </a>
@@ -176,9 +176,9 @@ Here are some ideas to get you started:
 
   **Data Analysis:**
 
-  &emsp; <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-007BFF?style=for-the-badge&logo=data&logoColor=white"></a> (Learning)
-  &emsp; <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-4285F4?style=for-the-badge&logo=R&logoColor=white"></a> (Learning)
-  &emsp; <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-9D38BD?style=for-the-badge&logo=postgresql&logoColor=white"></a> (Learning)
+  &emsp; <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-007BFF?style=for-the-badge&logo=data&logoColor=white"></a>
+  &emsp; <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-4285F4?style=for-the-badge&logo=R&logoColor=white"></a>
+  &emsp; <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-9D38BD?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
   <br/>
 
