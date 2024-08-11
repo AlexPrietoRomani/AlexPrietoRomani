@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<img src="https://profile-counter.glitch.me/AlexPrietoRomani/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AlexPrietoRomani.svg?style=social&label=Followers)](https://github.com/AlexPrietoRomani?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Alex!;I'm+a+Data+Science...;And+I'm+a+proud+Peruvian+🇵🇰)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;   
-
   <a href="https://www.r-project.org/">
     <img alt="R" src="https://img.shields.io/badge/R-428DCA?style=for-the-badge&logo=R&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.mysql.com/">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-E3386D?style=for-the-badge&logo=postgresql&logoColor=white"/>  </a>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-E3386D?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  </a>
   &emsp;
   <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -93,42 +93,31 @@ Here are some ideas to get you started:
 
   **Frameworks:**
   &emsp;
-  <a href="https://scikit-learn.org/">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <a href="https://scikit-learn.org/"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>
   &emsp;
-  <a   
- href="https://www.tensorflow.org/">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>   
-
+  <a href="https://www.tensorflow.org/"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>   
   </a>
   &emsp;
-  <a href="https://www.scipy.org/">   
-
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-F7CAC9?style=for-the-badge&logo=SciPy&logoColor=black"/>
+  <a href="https://www.scipy.org/"> <img alt="SciPy" src="https://img.shields.io/badge/SciPy-F7CAC9?style=for-the-badge&logo=SciPy&logoColor=black"/>
   </a>
   &emsp;
-  <a href="https://seaborn.pydata.org/">
-    <img alt="Seaborn" src="https://img.badge/seaborn-FFC4AA?style=for-the-badge&logo=seaborn&logoColor=black"/>
+  <a href="https://seaborn.pydata.org/"> <img alt="Seaborn" src="https://img.badge/seaborn-FFC4AA?style=for-the-badge&logo=seaborn&logoColor=black"/>
   </a>
   <br/>
 
   **Visualization:**
   &emsp;
-  <a href="https://plotly.com/">
-    <img alt="Plotly" src="https://img.shields.io/badge/plotly-2874A3?style=for-the-badge&logo=Plotly&logoColor=white"/>
+  <a href="https://plotly.com/"> <img alt="Plotly" src="https://img.shields.io/badge/plotly-2874A3?style=for-the-badge&logo=Plotly&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://streamlit.io/">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF0000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <a href="https://streamlit.io/"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF0000?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://plotly.com/dash/">
-    <img alt="Dash" src="https://img.shields.io/badge/Dash-2874A3?style=for-the-badge&logo=Dash&logoColor=white"/>
+  <a href="https://plotly.com/dash/"> <img alt="Dash" src="https://img.shields.io/badge/Dash-2874A3?style=for-the-badge&logo=Dash&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://grad.io/">
-    <img alt="Gradio" src="https://img.shields.io/badge/Gradio-F08080?style=for-the-badge&logo=logo&Color=white"/>
+  <a href="https://grad.io/"> <img alt="Gradio" src="https://img.shields.io/badge/Gradio-F08080?style=for-the-badge&logo=logo&Color=white"/>
   </a>
 
   <br/>
@@ -136,16 +125,13 @@ Here are some ideas to get you started:
   **R:**
 
   &emsp;
-  <a href="https://tidyverse.org/">
-    <img alt="Tidyverse" src="https://img.shields.io/badge/tidyverse-9D38BD?style=for-the-badge&logo=R&logoColor=white"/>
+  <a href="https://tidyverse.org/"> <img alt="Tidyverse" src="https://img.shields.io/badge/tidyverse-9D38BD?style=for-the-badge&logo=R&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://ggplot2.tidyverse.org/">
-    <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-339933?style=for-the-badge&logo=R&logoColor=white"/>
+  <a href="https://ggplot2.tidyverse.org/"> <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-339933?style=for-the-badge&logo=R&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://cran.r-project.org/web/packages/agricolae/index.html">
-    <img alt="agricolae" src="https://img.shields.io/badge/agricolae-007FFF?style=for-the-badge&logo=R&logoColor=white"/>
+  <a href="https://cran.r-project.org/web/packages/agricolae/index.html"> <img alt="agricolae" src="https://img.shields.io/badge/agricolae-007FFF?style=for-the-badge&logo=R&logoColor=white"/>
   </a>
   <br/>
 
@@ -174,8 +160,7 @@ Here are some ideas to get you started:
 
   &emsp; <a href="https://cloud.google.com/"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>   
 
-  &emsp; <a href="https://azure.microsoft.com/en-us/services/azure-compute/"><img   
- alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>   
+  &emsp; <a href="https://azure.microsoft.com/en-us/services/azure-compute/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>   
 
 
   <br/>
