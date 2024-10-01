@@ -45,28 +45,12 @@ Here are some ideas to get you started:
 
 ### 👉 Programming languages
 
-<p align="left">
-
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;   
-  <a href="https://www.r-project.org/">
-    <img alt="R" src="https://img.shields.io/badge/R-428DCA?style=for-the-badge&logo=R&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.mysql.com/">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-E3386D?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  </a>
-  &emsp;
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>   
-
-
-</p>
+[![Programming languages](https://skillicons.dev/icons?i=py,r,sqlite,java&perline=8)](https://skillicons.dev)
 
 ### 👉 Frameworks and Libraries
+
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=py,r,mongodb,mysql,postgres,sqlite,java&perline=8)](https://skillicons.dev)
+
 <p align="left">
 
   **Python:**
@@ -91,18 +75,7 @@ Here are some ideas to get you started:
 
   **Frameworks:**
   
-  &emsp;
-  <a href="https://scikit-learn.org/"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.tensorflow.org/"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>   
-  </a>
-  &emsp;
-  <a href="https://www.scipy.org/"> <img alt="SciPy" src="https://img.shields.io/badge/SciPy-F7CAC9?style=for-the-badge&logo=SciPy&logoColor=black"/>
-  </a>
-  &emsp;
-  <a href="https://seaborn.pydata.org/"> <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-blue?style=for-the-badge&logo=seaborn"/>
-  </a>
+  [![Frameworks](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=8)](https://skillicons.dev)
   <br/>
 
   **Visualization:**
@@ -137,10 +110,7 @@ Here are some ideas to get you started:
 
   **Java:**
 
-  &emsp;
-  <a href="https://spring.io/">
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  </a>
+  [![Databases](https://skillicons.dev/icons?i=spring,java&perline=8)](https://skillicons.dev)
 
 </p>
 
@@ -150,17 +120,14 @@ Here are some ideas to get you started:
 
   **Databases:**
 
-  &emsp; <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp; <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>   
+  [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=8)](https://skillicons.dev)
 
 
   <br/>
 
   **Cloud Platforms (In Progress):**
 
-  &emsp; <a href="https://cloud.google.com/"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>   
-
-  &emsp; <a href="https://azure.microsoft.com/en-us/services/azure-compute/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>   
+  [![Cloud Platforms](https://skillicons.dev/icons?i=azure,sqlite&perline=8)](https://skillicons.dev)
 
 
   <br/>
