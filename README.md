@@ -4,12 +4,6 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/AlexPrietoRomani/count.svg">
-
-[![GitHub followers](https://img.shields.io/github/followers/AlexPrietoRomani.svg?style=social&label=Followers)](https://github.com/AlexPrietoRomani?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Alex!;I'm+a+Data+Science...;And+I'm+a+proud+Peruvian+🇵🇰)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/AlexPrietoRomani/count.svg" alt="Profile Views">
 </p>
