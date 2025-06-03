@@ -26,7 +26,7 @@
 </p>
 
 <p align="justify">
-  🇵🇪 Soy Ingeniero Agrícola, actualmente cursando una Maestría en Big Data y Data Science, apasionado por aprovechar los datos para revolucionar el sector agrícola. Mi enfoque principal es la <strong>Agricultura de Precisión</strong> y el desarrollo de <strong>modelos de Inteligencia Artificial (IA)</strong> para optimizar los procesos agrícolas, mejorar la toma de decisiones y contribuir a una agricultura más sostenible y eficiente. Con más de 3 años de experiencia en el sector agroindustrial e investigación, y más de un año especializándome en análisis de datos, estoy ansioso por colaborar en proyectos innovadores.
+  🇵🇪 Soy Ingeniero Agronomo, actualmente cursando una Maestría en Big Data y Data Science, apasionado por aprovechar los datos para revolucionar el sector agrícola. Mi enfoque principal es la <strong>Agricultura de Precisión</strong> y el desarrollo de <strong>modelos de Inteligencia Artificial (IA)</strong> para optimizar los procesos agrícolas, mejorar la toma de decisiones y contribuir a una agricultura más sostenible y eficiente. Con más de 3 años de experiencia en el sector agroindustrial e investigación, y más de un año especializándome en análisis de datos, estoy ansioso por colaborar en proyectos innovadores.
 </p>
 
 - 🔭 **Currently:** Data Analyst & Researcher at Camposol.
